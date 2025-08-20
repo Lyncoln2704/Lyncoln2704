@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Olá, meu nome é João Lyncoln Rodrigues 26 anos e um prazer!</h1>
+        <h1>Olá, meu nome é João Lyncoln Rodrigues tenho 26 anos e é um prazer!</h1>
     </div>
 </body>
 </html>
